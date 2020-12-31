@@ -8,7 +8,7 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
 	state: {
-		subreddit: 'Funny',
+		subreddit: 'Home',
 		posts: [],
 		before: '',
 		after: '',
